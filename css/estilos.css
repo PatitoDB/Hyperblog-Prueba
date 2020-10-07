@@ -42,3 +42,11 @@ body
 {
     padding: 1em;
 }
+
+#footer {
+    background-color: blueviolet;
+    margin: 0;
+    text-align: center;
+    padding: 0.05em;
+    color: white;
+}
